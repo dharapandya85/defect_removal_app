@@ -1,0 +1,12 @@
+{
+    "rust-analyzer.workspace.discoverConfig": null,
+    "json.schemas": [
+    {
+      "fileMatch": ["package.json"],
+      "url": "disable"
+    }
+  ],
+  "editor.tabSize": 2,
+  "files.autoSave": "onWindowChange"
+
+}

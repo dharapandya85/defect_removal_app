@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
@@ -75,4 +76,20 @@
   "keywords": [],
   "author": "",
   "license": "ISC"
+=======
+  "dependencies": {
+    "@aws-cdk/aws-apigatewayv2-alpha": "^2.114.1-alpha.0",
+    "@aws-cdk/aws-appsync-alpha": "^2.59.0-alpha.0",
+    "@aws-cdk/aws-neptune-alpha": "^2.166.0-alpha.0",
+    "@aws-cdk/cloud-assembly-schema": "^39.0.1",
+    "@aws-cdk/core": "^1.204.0",
+    "@aws-sdk/client-serverlessapplicationrepository": "^3.687.0",
+    "@mui/styles": "^6.1.6",
+    "aws-amplify": "^6.8.0",
+    "aws-appsync": "^4.1.10",
+    "aws-cdk-lib": "^2.166.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+>>>>>>> 554b7aceca7074c189dd0d394713ae7cf640100c
 }
